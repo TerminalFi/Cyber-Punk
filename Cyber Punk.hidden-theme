@@ -182,7 +182,7 @@
         {
             "class": "annotation_close_button",
             "content_margin": 8,
-            "layer0.texture": "Meetio Theme/textures/actions/close.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.tint": "var(accent)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -313,7 +313,7 @@
         },
         {
             "class": "dropdown_button_control",
-            "layer0.texture": "Meetio Theme/textures/actions/history.png",
+            "layer0.texture": "Cyber Punk/textures/actions/history.png",
             "layer0.tint": "var(accent)",
             "layer0.opacity": 1,
             "layer0.inner_margin": 0,
@@ -336,7 +336,7 @@
         },
         {
             "class": "disclosure_button_control",
-            "layer0.texture": "Meetio Theme/textures/disclosure.png",
+            // "layer0.texture": "Cyber Punk/textures/disclosure.png",
             "layer0.tint": [
                 "foreground",
                 0.6
@@ -358,7 +358,7 @@
             "attributes": [
                 "expanded"
             ],
-            "layer0.texture": "Meetio Theme/textures/disclosure_expanded.png",
+            // "layer0.texture": "Cyber Punk/textures/disclosure_expanded.png",
             "layer0.tint": "var(sidebarIconFolderColor)"
         },
         {
@@ -385,7 +385,7 @@
         },
         {
             "class": "icon_folder",
-            "layer0.texture": "Meetio Theme/textures/tree/folder_closed.png",
+            "layer0.texture": "Cyber Punk/textures/tree/folder_closed.png",
             "layer0.tint": "var(sidebarIconFolderColor)",
             "layer0.opacity": 1,
             "content_margin": [
@@ -403,7 +403,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Meetio Theme/textures/tree/folder_open.png",
+            "layer0.texture": "Cyber Punk/textures/tree/folder_open.png",
             "layer0.tint": "var(sidebarIconFolderExpandedColor)",
             "layer0.opacity": 1,
             "content_margin": [
@@ -413,7 +413,7 @@
         },
         {
             "class": "icon_folder_dup",
-            "layer0.texture": "Meetio Theme/textures/tree/folder_dup.png",
+            "layer0.texture": "Cyber Punk/textures/tree/folder_dup.png",
             "layer0.tint": "var(sidebarIconFolderColor)",
             "layer0.opacity": 1,
             "content_margin": [
@@ -425,18 +425,18 @@
             "class": "icon_folder_loading",
             "layer0.texture": {
                 "keyframes": [
-                    "Meetio Theme/textures/spinner11.png",
-                    "Meetio Theme/textures/spinner10.png",
-                    "Meetio Theme/textures/spinner9.png",
-                    "Meetio Theme/textures/spinner8.png",
-                    "Meetio Theme/textures/spinner7.png",
-                    "Meetio Theme/textures/spinner6.png",
-                    "Meetio Theme/textures/spinner5.png",
-                    "Meetio Theme/textures/spinner4.png",
-                    "Meetio Theme/textures/spinner3.png",
-                    "Meetio Theme/textures/spinner2.png",
-                    "Meetio Theme/textures/spinner1.png",
-                    "Meetio Theme/textures/spinner.png"
+                    "Cyber Punk/textures/spinner11.png",
+                    "Cyber Punk/textures/spinner10.png",
+                    "Cyber Punk/textures/spinner9.png",
+                    "Cyber Punk/textures/spinner8.png",
+                    "Cyber Punk/textures/spinner7.png",
+                    "Cyber Punk/textures/spinner6.png",
+                    "Cyber Punk/textures/spinner5.png",
+                    "Cyber Punk/textures/spinner4.png",
+                    "Cyber Punk/textures/spinner3.png",
+                    "Cyber Punk/textures/spinner2.png",
+                    "Cyber Punk/textures/spinner1.png",
+                    "Cyber Punk/textures/spinner.png"
                 ],
                 "loop": true,
                 "frame_time": 0.08
@@ -497,7 +497,7 @@
         },
         {
             "class": "icon_regex",
-            "layer0.texture": "Meetio Theme/textures/find/regex.png",
+            "layer0.texture": "Cyber Punk/textures/find/regex.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -535,7 +535,7 @@
         },
         {
             "class": "icon_case",
-            "layer0.texture": "Meetio Theme/textures/find/case_sensitive.png",
+            "layer0.texture": "Cyber Punk/textures/find/case_sensitive.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -573,7 +573,7 @@
         },
         {
             "class": "icon_whole_word",
-            "layer0.texture": "Meetio Theme/textures/find/whole_word.png",
+            "layer0.texture": "Cyber Punk/textures/find/whole_word.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -611,7 +611,7 @@
         },
         {
             "class": "icon_wrap",
-            "layer0.texture": "Meetio Theme/textures/find/wrap.png",
+            "layer0.texture": "Cyber Punk/textures/find/wrap.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -649,7 +649,7 @@
         },
         {
             "class": "icon_in_selection",
-            "layer0.texture": "Meetio Theme/textures/find/in_selection.png",
+            "layer0.texture": "Cyber Punk/textures/find/in_selection.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -687,7 +687,7 @@
         },
         {
             "class": "icon_highlight",
-            "layer0.texture": "Meetio Theme/textures/find/highlight_matches.png",
+            "layer0.texture": "Cyber Punk/textures/find/highlight_matches.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -725,7 +725,7 @@
         },
         {
             "class": "icon_preserve_case",
-            "layer0.texture": "Meetio Theme/textures/find/preserve_case.png",
+            "layer0.texture": "Cyber Punk/textures/find/preserve_case.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -763,7 +763,7 @@
         },
         {
             "class": "icon_context",
-            "layer0.texture": "Meetio Theme/textures/find/in_context.png",
+            "layer0.texture": "Cyber Punk/textures/find/in_context.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -801,7 +801,7 @@
         },
         {
             "class": "icon_use_buffer",
-            "layer0.texture": "Meetio Theme/textures/find/use_buffer.png",
+            "layer0.texture": "Cyber Punk/textures/find/use_buffer.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -839,7 +839,7 @@
         },
         {
             "class": "icon_use_gitignore",
-            "layer0.texture": "Meetio Theme/textures/find/use_gitignore.png",
+            "layer0.texture": "Cyber Punk/textures/find/use_gitignore.png",
             "layer0.tint": "var(buttonIconFileColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -877,7 +877,7 @@
         },
         {
             "class": "fold_button_control",
-            "layer0.texture": "Meetio Theme/textures/navigation/arrow_right.png",
+            "layer0.texture": "Cyber Punk/textures/navigation/arrow_right.png",
             "layer0.tint": "var(accent)",
             "layer0.opacity": 0.4,
             "layer0.inner_margin": 0,
@@ -902,7 +902,7 @@
             "attributes": [
                 "expanded"
             ],
-            "layer0.texture": "Meetio Theme/textures/navigation/arrow_down.png",
+            "layer0.texture": "Cyber Punk/textures/navigation/arrow_down.png",
             "layer0.tint": "var(accent)",
             "content_margin": [
                 12,
@@ -1258,7 +1258,7 @@
                 0
             ],
             "layer2.draw_center": false,
-            "layer2.texture": "Meetio Theme/textures/input/search.png",
+            "layer2.texture": "Cyber Punk/textures/input/search.png",
             "layer2.tint": "var(accent)",
             "layer2.opacity": 1,
             "settings": [
@@ -1301,7 +1301,7 @@
                 0
             ],
             "layer2.draw_center": false,
-            "layer2.texture": "Meetio Theme/textures/input/search.png",
+            "layer2.texture": "Cyber Punk/textures/input/search.png",
             "layer2.tint": "var(accent)",
             "layer2.opacity": 1,
             "layer1.opacity": 0,
@@ -1311,7 +1311,7 @@
         },
         {
             "class": "close_button",
-            "layer0.texture": "Meetio Theme/textures/actions/close.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.tint": "var(accent)",
             "layer0.opacity": 1,
             "layer0.inner_margin": [
@@ -1340,7 +1340,7 @@
             "attributes": [
                 "dirty"
             ],
-            "layer0.texture": "Meetio Theme/textures/dirty_icon.png",
+            // "layer0.texture": "Cyber Punk/textures/dirty_icon.png",
             "layer0.tint": "var(accent)"
         },
         {
@@ -1349,7 +1349,7 @@
                 "hover",
                 "dirty"
             ],
-            "layer0.texture": "Meetio Theme/textures/dirty_icon.png",
+            // "layer0.texture": "Cyber Punk/textures/dirty_icon.png",
             "layer0.tint": "var(accent)"
         },
         {
@@ -1392,7 +1392,7 @@
         },
         {
             "class": "panel_close_button",
-            "layer0.texture": "Meetio Theme/textures/actions/close.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.opacity": {
                 "target": 0.4,
                 "speed": 5,
@@ -1541,7 +1541,7 @@
         },
         {
             "class": "overlay_control",
-            "layer0.texture": "Meetio Theme/textures/overlay_bg.png",
+            "layer0.texture": "Cyber Punk/textures/overlay_bg.png",
             "layer0.inner_margin": [
                 24,
                 4,
@@ -1550,7 +1550,7 @@
             ],
             "layer0.opacity": 1,
             "layer0.tint": "var(panelControlBackground)",
-            "layer1.texture": "Meetio Theme/textures/quick_panel_background.png",
+            "layer1.texture": "Cyber Punk/textures/quick_panel_background.png",
             "layer1.inner_margin": [
                 16,
                 0,
@@ -1613,7 +1613,7 @@
         },
         {
             "class": "panel_button_control",
-            "layer0.texture": "Meetio Theme/textures/actions/menu.png",
+            // "layer0.texture": "Cyber Punk/textures/actions/menu.png",
             "layer0.tint": "var(statusbarIconColor)",
             "layer0.opacity": 1,
             "content_margin": 9,
@@ -1638,7 +1638,7 @@
             "settings": [
                 "show_git_status_in_status_bar"
             ],
-            "layer0.texture": "Meetio Theme/textures/actions/branch.png",
+            "layer0.texture": "Cyber Punk/textures/actions/branch.png",
             "content_margin": 8,
             "layer0.tint": "var(statusbarIconColor)",
             "layer0.inner_margin": 2,
@@ -1653,7 +1653,7 @@
         },
         {
             "class": "sidebar_button_control",
-            "layer0.texture": "Meetio Theme/textures/actions/sidebar.png",
+            "layer0.texture": "Cyber Punk/textures/actions/sidebar.png",
             "content_margin": 8,
             "layer0.tint": "var(statusbarIconColor)",
             "layer0.inner_margin": 2,
@@ -2300,7 +2300,7 @@
         {
             "class": "tab_close_button",
             "content_margin": 0,
-            "layer0.texture": "Meetio Theme/textures/actions/close.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.tint": "var(tabCloseColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -2308,7 +2308,7 @@
                 "interpolation": "smoothstep"
             },
             "layer0.inner_margin": 0,
-            "layer1.texture": "Meetio Theme/textures/tab/dirty_dot.png",
+            "layer1.texture": "Cyber Punk/textures/tab/dirty_dot.png",
             "layer1.tint": "var(tabDiffIconColor)",
             "layer1.inner_margin": [
                 2,
@@ -2318,7 +2318,7 @@
         },
         {
             "class": "tab_close_button",
-            "layer1.texture": "Meetio Theme/textures/tab/dirty_pencil.png",
+            "layer1.texture": "Cyber Punk/textures/tab/dirty_pencil.png",
             "layer1.inner_margin": 0,
             "settings": [
                 "meetio_tabs_diff_pencil_icon"
@@ -2470,7 +2470,7 @@
         },
         {
             "class": "scroll_tabs_left_button",
-            "layer0.texture": "Meetio Theme/textures/navigation/arrow_left_small.png",
+            "layer0.texture": "Cyber Punk/textures/navigation/arrow_left_small.png",
             "layer0.tint": "var(tabNavigationColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -2502,7 +2502,7 @@
         },
         {
             "class": "scroll_tabs_right_button",
-            "layer0.texture": "Meetio Theme/textures/navigation/arrow_right_small.png",
+            "layer0.texture": "Cyber Punk/textures/navigation/arrow_right_small.png",
             "layer0.tint": "var(tabNavigationColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -2584,7 +2584,7 @@
         },
         {
             "class": "show_tabs_dropdown_button",
-            "layer0.texture": "Meetio Theme/textures/actions/more.png",
+            "layer0.texture": "Cyber Punk/textures/actions/more.png",
             "layer0.tint": "var(tabMoreColor)",
             "layer0.opacity": {
                 "target": 0.5,
@@ -2761,7 +2761,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Meetio Theme/textures/vcs/vcs_untracked.png",
+            "layer0.texture": "Cyber Punk/textures/vcs/vcs_untracked.png",
             "layer0.tint": "var(vcsUntracked)",
             "content_margin": "var(vcsBadgeSize)"
         },
@@ -2775,7 +2775,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Meetio Theme/textures/vcs/vcs_modified.png",
+            "layer0.texture": "Cyber Punk/textures/vcs/vcs_modified.png",
             "layer0.tint": "var(vcsModified)",
             "content_margin": "var(vcsBadgeSize)"
         },
@@ -2789,7 +2789,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Meetio Theme/textures/vcs/vcs_added.png",
+            "layer0.texture": "Cyber Punk/textures/vcs/vcs_added.png",
             "layer0.tint": "var(vcsAdded)",
             "content_margin": "var(vcsBadgeSize)"
         },
@@ -2817,7 +2817,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Meetio Theme/textures/vcs/vcs_staged.png",
+            "layer0.texture": "Cyber Punk/textures/vcs/vcs_staged.png",
             "layer0.tint": "var(vcsStaged)",
             "content_margin": "var(vcsBadgeSize)"
         },
