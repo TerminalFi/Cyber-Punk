@@ -66,10 +66,7 @@
         "panelRowMatchColor": "var(accent)",
         "panelRowSelectedMatchColor": "var(accent)",
         "inputBackground": "var(background)",
-        "inputBorderColor": [
-            "foreground",
-            0.1
-        ],
+        "inputBorderColor": "var(--pinkish)",
         "inputBorderSize": [
             0,
             0,
@@ -101,12 +98,12 @@
         "sidebarLabelSelectedColor": "var(accent)",
         "sidebarLabelExpandableColor": "var(accent)",
         "sidebarLabelSelectedBorderSize": [
-            2,
+            4,
             0,
             0,
             0
         ],
-        "sidebarLabelSelectedBorderColor": "var(accent)",
+        "sidebarLabelSelectedBorderColor": "var(--pinkish)",
         "sidebarIconFolderColor": "var(sidebarLabelColor)",
         "sidebarIconFolderExpandedColor": "var(sidebarLabelExpandableColor)",
         "sidebarIconFileSize": 7,
@@ -131,7 +128,7 @@
         "tabBackground": "var(background)",
         "tabBorder": "var(borderContrast)",
         "tabBackgroundSheetModifier": "blend(var(accent) 95%)",
-        "tabSelectedBorderColor": "var(accent)",
+        "tabSelectedBorderColor": "var(--pinkish)",
         "tabSelectedBorderSize": [
             0,
             0,
