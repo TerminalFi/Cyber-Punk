@@ -6,7 +6,7 @@
         "foreground": "#07f79a",
         "background": "#0a1933",
         "cursor": "#f6ff00",
-        "comments": "#9604ff",
+        "comments": "#d499ff",
         "deprecated": "#b4651d",
         "diffAdded": "#f6ff00",
         "diffDeleted": "#fe0302",
