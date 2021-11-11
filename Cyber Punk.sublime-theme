@@ -334,7 +334,7 @@
         },
         {
             "class": "disclosure_button_control",
-            "layer0.texture": "Cyber Punk/textures/disclosure.png",
+            "layer0.texture": "Cyber Punk/textures/tree/disclosure_collapsed.png",
             "layer0.tint": [
                 "foreground",
                 0.6
@@ -356,7 +356,7 @@
             "attributes": [
                 "expanded"
             ],
-            "layer0.texture": "Cyber Punk/textures/disclosure_expanded.png",
+            "layer0.texture": "Cyber Punk/textures/tree/disclosure_expanded.png",
             "layer0.tint": "var(sidebarIconFolderColor)"
         },
         {
@@ -1338,7 +1338,7 @@
             "attributes": [
                 "dirty"
             ],
-            "layer0.texture": "Cyber Punk/textures/dirty_icon.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.tint": "var(accent)"
         },
         {
@@ -1347,7 +1347,7 @@
                 "hover",
                 "dirty"
             ],
-            "layer0.texture": "Cyber Punk/textures/dirty_icon.png",
+            "layer0.texture": "Cyber Punk/textures/actions/close.png",
             "layer0.tint": "var(accent)"
         },
         {
@@ -1563,7 +1563,7 @@
         },
         {
             "class": "overlay_control",
-            "layer0.texture": "Cyber Punk/textures/overlay_bg.png",
+            "layer0.texture": "Cyber Punk/textures/overlay/shadow.png",
             "layer0.inner_margin": [
                 24,
                 4,
@@ -1571,8 +1571,8 @@
                 33
             ],
             "layer0.opacity": 1,
-            "layer0.tint": "var(panelControlBackground)",
-            "layer1.texture": "Cyber Punk/textures/quick_panel_background.png",
+            "layer1.texture": "Cyber Punk/textures/overlay/background.png",
+            "layer1.tint": "var(overlayControlBackground)",
             "layer1.inner_margin": [
                 16,
                 0,
@@ -1585,7 +1585,11 @@
                 4,
                 13,
                 28
-            ]
+            ],
+            "layer2.texture": "Cyber Punk/textures/overlay/border.png",
+            "layer2.tint": "var(overlayControlBorder)",
+            "layer2.draw_center": false,
+            "layer2.opacity": 1
         },
         {
             "class": "progress_bar_control",
@@ -1634,8 +1638,8 @@
             "layer1.opacity": 1
         },
         {
-            "class": "panel_button_control",
-            "layer0.texture": "Cyber Punk/textures/actions/menu.png",
+            "class": "`",
+            "layer0.texture": "Cyber Punk/textures/actions/more.png",
             "layer0.tint": "var(statusbarIconColor)",
             "layer0.opacity": 1,
             "content_margin": 9,
@@ -2420,7 +2424,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Theme - Default/common/dark/tab_dirty.png"
+            "layer0.texture": "Theme - Default/common/tab_dirty.png"
         },
         {
             "class": "tab_close_button",
